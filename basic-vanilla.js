@@ -1,0 +1,3 @@
+// Join Array
+join('');
+
